@@ -1,0 +1,1 @@
+C++ Library Managment System coded for Data Structures class. Handles adding/removing books, renting/returning books, transaction recording, reservations, fee calculation, efficient book display and book search. Developed in Qt Compiler.
